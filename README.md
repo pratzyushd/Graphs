@@ -1,5 +1,5 @@
 # Graphs
 
-- Code a graph
-- Implement depth first traversal
-- Implement breadth first traversal (DONE BY OTHER GROUP)
+- Implementation of graph - adjacency list, adjacency matrix
+- Depth first traversal (DFT) - non-recursive, recursive
+- Breadth first traversal (BFT) - recursive
